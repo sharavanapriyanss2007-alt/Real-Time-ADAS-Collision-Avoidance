@@ -142,3 +142,6 @@ The system uses an HC-SR04 ultrasonic sensor, IR sensors, and an MPU6050 to moni
 - Bluetooth Command: `S`
 - Vehicle Status: Stop
 - Motor: Stopped
+
+👨‍💻 Developed By
+Sharavana Priyan
